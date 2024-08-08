@@ -24,7 +24,7 @@ function Hero(){
         <img className ={styles.colorMode} onClick={toggleTheme} src={themeIcon} alt="dark mode moon" />
         </div>
         <div className={styles.info}>
-        <h1>pussy ass nigga <br /> Sharma</h1>
+        <h1>Ashutosh <br /> Sharma</h1>
         <h2>FullStack Developer</h2>
         <span>
         <a href="https://twitter.com/" target="_blank">
