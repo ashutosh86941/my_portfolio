@@ -37,8 +37,8 @@ function Hero(){
             <img src={lkdinIcon} alt="" />
             </a>
         </span>
-        <p className={styles.description}>With a passion for developing modern Reract web apps for commercial business</p>
-        <a href={CV} download>
+        <p className={styles.description}>With a passion for developing modern React web apps for commercial business</p>
+        <a href="https://www.youtube.com/shorts/SXHMnicI6Pg" >
             <button className="hover">Resume</button>
         </a>
         </div>
