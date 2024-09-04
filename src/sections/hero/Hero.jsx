@@ -38,7 +38,7 @@ function Hero(){
             </a>
         </span>
         <p className={styles.description}>With a passion for developing modern React web apps for commercial business</p>
-        <a href="https://www.youtube.com/shorts/SXHMnicI6Pg" >
+        <a href="" >
             <button className="hover">Resume</button>
         </a>
         </div>
